@@ -1,0 +1,114 @@
+{
+  "id": "4493460",
+  "name": "gaojia",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "272224",
+      "name": "icon_angle_left",
+      "font_class": "icon-angle-left",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "272228",
+      "name": "icon_angle_right",
+      "font_class": "icon-angle-right",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "11876405",
+      "name": "就业",
+      "font_class": "jiuye",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8825904",
+      "name": "学科建设",
+      "font_class": "xuekejianshe",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "11932415",
+      "name": "学生管理",
+      "font_class": "xueshengguanli",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "14656240",
+      "name": "产业技术联盟",
+      "font_class": "chanyejishulianmeng",
+      "unicode": "e72c",
+      "unicode_decimal": 59180
+    },
+    {
+      "icon_id": "12898930",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "7053678",
+      "name": "特色优势",
+      "font_class": "teseyoushi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "18202012",
+      "name": "大学",
+      "font_class": "daxue",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "20755275",
+      "name": "行业专家",
+      "font_class": "hangyezhuanjia",
+      "unicode": "e820",
+      "unicode_decimal": 59424
+    },
+    {
+      "icon_id": "21030214",
+      "name": "教学成果",
+      "font_class": "jiaoxuechengguo",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3091965",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e76e",
+      "unicode_decimal": 59246
+    },
+    {
+      "icon_id": "4936984",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e882",
+      "unicode_decimal": 59522
+    },
+    {
+      "icon_id": "8300836",
+      "name": "留言",
+      "font_class": "liuyan",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
